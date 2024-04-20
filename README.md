@@ -6,7 +6,6 @@
 
 Эта сборка основана на другой сборке, Corrugated Dawn, но я добавил собственный Beta-Like HUD и подкорректировал некоторые проблемы.
 
-На карте rp_localunrest_v1, если вы перекинете папку data в Garrysmod\garrysmod, вы получите бонусом еще и застройку с квестовыми NPC.
 
 Контент - https://steamcommunity.com/sharedfiles/filedetails/?id=3160132980
 ## Фичи
