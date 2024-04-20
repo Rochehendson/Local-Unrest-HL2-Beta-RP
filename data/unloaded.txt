@@ -1,0 +1,1 @@
+[{"allowflashlight":true,"mynotes":true,"combineassistant":true,"extended_music_system":true,"betterdesc":true,"chud":true,"simple_nicknames":true,"proceduralambience":true,"hints":true,"crafting":true,"writing":true,"bleedout":true,"notepads":true,"paper":true,"cto":true,"arccw_support":true}]

@@ -1,0 +1,9 @@
+ITEM.name = "Батарейка для костюма"
+ITEM.description = "Батарейка которую часто используют для подзарядки жилетов."
+ITEM.model = "models/Items/Battery.mdl"
+ITEM.class = "weapon_hl_suitcharge"
+ITEM.weaponCategory = "grenade"
+ITEM.classes = {CLASS_EOW}
+ITEM.flag = "V"
+ITEM.width = 1
+ITEM.height = 1

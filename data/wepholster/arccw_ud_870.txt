@@ -1,0 +1,8 @@
+{
+	"BoneOffset": [
+		"[-3.3125 -4.0625 10.5625]",
+		"{104.5938 1.3438 95.0938}"
+	],
+	"Bone": "ValveBiped.Bip01_R_Clavicle",
+	"Model": "models/weapons/arccw/c_ud_870.mdl"
+}
